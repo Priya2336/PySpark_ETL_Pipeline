@@ -75,7 +75,7 @@ Clean transactions written as Parquet partitioned by `state` — enabling partit
 | `customer_risk_profile/` | CSV | — | Per-customer risk scoring |
 | `data_quality_report.txt` | Text | — | Automated DQ report |
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 ---
 
 ## Enriched Columns Added
